@@ -16,10 +16,7 @@ export function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white">R</span>
-              </div>
-              <span className="text-xl text-white">RankKit</span>
+              <img src="/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
             </div>
             <p className="text-gray-400 mb-6">
               Empowering businesses to achieve top search rankings through 
@@ -84,10 +81,7 @@ export function Footer() {
         {/* Mobile Footer with Accordion */}
         <div className="md:hidden mb-8">
           <div className="flex items-center gap-2 mb-6">
-            <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-              <span className="text-white">R</span>
-            </div>
-            <span className="text-xl text-white">RankKit</span>
+            <img src="/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
           </div>
 
           <Accordion type="single" collapsible className="w-full">

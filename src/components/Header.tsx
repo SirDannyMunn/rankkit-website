@@ -23,10 +23,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <a href="/" className="flex items-center gap-2">
-              <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white">R</span>
-              </div>
-              <span className="text-xl text-gray-900">RankKit</span>
+              <img src="/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
             </a>
           </div>
 
