@@ -16,7 +16,7 @@ export function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <img src="/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
+              <img src="https://770957583915-web-public-general.s3.amazonaws.com/rankkit/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
             </div>
             <p className="text-gray-400 mb-6">
               Empowering businesses to achieve top search rankings through 

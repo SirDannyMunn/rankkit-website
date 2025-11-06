@@ -23,7 +23,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <a href="/" className="flex items-center gap-2">
-              <img src="/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
+              <img src="https://770957583915-web-public-general.s3.amazonaws.com/rankkit/rankkit_logo.png" alt="RankKit Logo" className="h-8" />
             </a>
           </div>
 
